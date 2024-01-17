@@ -1,0 +1,17 @@
+{
+    "name": "gabrielcamurca/php-chat-websocket",
+    "autoload": {
+        "psr-4": {
+            "Gabrielcamurca\\PhpChatWebsocket\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Camurça",
+            "email": "gabriel@brtech.dev"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+}
