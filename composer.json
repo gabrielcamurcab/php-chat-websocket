@@ -2,7 +2,7 @@
     "name": "gabrielcamurca/php-chat-websocket",
     "autoload": {
         "psr-4": {
-            "Gabrielcamurca\\PhpChatWebsocket\\": "src/"
+            "MyApp\\": "src/"
         }
     },
     "authors": [
